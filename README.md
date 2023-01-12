@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Visual Computing Student At USTHB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennicoculus&label=Profile%20views&color=b40e2f&style=flat" alt="fennicoculus" /> </p>
-<img align="right" alt="Black Hole" width="300" src="Black Hole">
+<img align="right" alt="Black Hole" width="300" src="Black Hole.gif">
 
 - 🌱 I’m currently learning **Android app development**
 
