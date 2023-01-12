@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=FennicOculus&label=Profile%20views&color=0e75b6&style=flat" alt="FennicOculus" /> </p>  
+ 
 [![FennicOculus's GitHub stats](https://github-readme-stats.vercel.app/api?username=FennicOculus&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/FennicOculus/FennicOculus/README.md)    
 [![FennicOculus's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FennicOculus&count_private=true&layout=compact&theme=tokyonight)](https://github.com/FennicOculus/FennicOculus/README.md)    
 [![trophy](https://github-profile-trophy.vercel.app/?username=FennicOculus&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/FennicOculus/FennicOculus/README.md)    
