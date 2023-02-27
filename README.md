@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennicoculus&label=Profile%20views&color=b40e2f&style=flat" alt="fennicoculus" /> </p>
 <img align="right" alt="Black Hole" width="250" src="Black Hole.gif">
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m currently learning **Android app development** and **Various computer vision concepts** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
