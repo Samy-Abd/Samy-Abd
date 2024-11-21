@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aghiles</h1>
+<h1 align="center">Hi there 👋, I'm Samy</h1>
 <h3 align="center">I'm Computer vision student at Paris cité University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samy-Abd&label=Profile%20views&color=b40e2f&style=flat" alt="Samy-Abd" /> </p>
