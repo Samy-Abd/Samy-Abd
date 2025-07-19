@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Samy</h1>
-<h3 align="center">I'm Computer vision student at Paris cité University</h3>
+<h3 align="center">I'm Machine Learning and Artificial Intelligence engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samy-Abd&label=Profile%20views&color=b40e2f&style=flat" alt="Samy-Abd" /> </p>
 <img align="right" alt="Black Hole" width="250" src="Black Hole.gif">
 
-- 🌱 I’m currently learning **Android app development** and **Various computer vision concepts** 
+- 🌱 I’m currently learning about **AI Agents** and **NLP** concepts.
 
 
 
